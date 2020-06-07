@@ -7,4 +7,11 @@ An interactive drinking game
 - [NeoPixel LEDS](https://www.ebay.de/itm/123868061007)
 
 
-## 
+## Connecotr Pinout
+- 1: 3.37
+- 2: Data IN
+- 3: Data OUT
+- 4: Buttoun OUT
+- 5: - free -
+- 6: 5.0V
+- 7: GND
