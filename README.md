@@ -15,3 +15,7 @@ An interactive drinking game
 - 5: - free -
 - 6: 5.0V
 - 7: GND
+
+
+## Color Scheme
+https://www.color-hex.com/color-palette/63697
